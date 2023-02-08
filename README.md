@@ -6,7 +6,7 @@ I used static web app for hosting webpage and storage  account for sorce code st
 
 Project demo link( website link) : https://salmon-wave-00b6ad010.2.azurestaticapps.net
 
-Some of the image taken while working
+Some of the image taken while working in azure
 1. createing storage accounts
 ![image](https://user-images.githubusercontent.com/119652853/217609700-99c170e3-7cd6-442c-9183-e0a877f49c58.png)
 
